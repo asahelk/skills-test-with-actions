@@ -15,7 +15,7 @@ Teach all things _Git_, give away all the stickers, ensure world peace.
 
 ### Supportocat
 
-Provide _world class support_ to customers on the GitHub platforma
+Provide _world class support_ to customers on the GitHub platform
 
 ## Skills
 
